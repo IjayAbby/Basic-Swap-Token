@@ -3,7 +3,7 @@ pragma solidity ^0.8.24;
 
 import "./IERC20.sol";
 
-contract SimpleSwap {
+contract Swapper {
     address public token1Address;
     address public token2Address;
 
